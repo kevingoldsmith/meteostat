@@ -1,0 +1,4 @@
+*.ini
+meteostat-venv/
+.vscode
+__pycache__
