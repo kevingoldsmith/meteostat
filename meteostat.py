@@ -1,5 +1,7 @@
 import requests
 
+# https://api.meteostat.net/
+
 #runtime cache for stations
 station_cache = {}
 
